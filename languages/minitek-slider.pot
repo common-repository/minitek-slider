@@ -1,0 +1,867 @@
+#: admin/partials/fields/minitek-slider-admin-field-image.php
+msgid "Select an image to upload"
+msgstr ""
+
+#: admin/partials/fields/minitek-slider-admin-field-image.php
+msgid "Use this image"
+msgstr ""
+
+#: admin/partials/fields/minitek-slider-admin-field-image.php
+msgid "Select"
+msgstr ""
+
+#: admin/partials/fields/minitek-slider-admin-field-image.php
+msgid "Remove"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "General"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Data source"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Layout"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Detail box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Hover box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Navigation"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Effects"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-tabs.php
+msgid "Responsive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "An optional class to be applied to the slider container."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "Slider class"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "Disable if you are already using the FontAwesome library in your template."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "Load FontAwesome"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "Yes"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-general.php
+msgid "No"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Items type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Posts"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Media (Images)"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Pages"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Products"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Specific items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Folder"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "RSS"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Custom items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Product Categories"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Category filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Inclusive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Exclusive"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Categories"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Include children"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Product Tags"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Tag filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Tags"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Author filtering type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Authors"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Enter the IDs of the items to be excluded, separated by commas. Retrieves any type except revisions and types with ‘exclude_from_search’ set to true."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "General"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Exclude items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Integer. The first x items will be skipped."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Offset"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Display items that match these keywords. Separate multiple keywords with spaces. Prepending a keyword with a hyphen will exclude items matching that keyword."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Keywords"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Ordering"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Author"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Title"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Date created"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Date modified"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Number of comments"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Random"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Ordering direction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Ascending"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Descending"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Enter the IDs of the posts to be included, separated by commas."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Include IDs"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Path"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Relative path to a folder. The folder must contain images."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Relative path to a local RSS file on server or remote RSS url."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-data-source.php
+msgid "Select a group of custom items."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Τheme"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Image Slider"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Article Slider 1"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Article Slider 2"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Article Slider 3"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Article Slider 4"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Article Slider 5"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Media Slider"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Container background color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Container background image"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Enable fullscreen"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Fullscreen background color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Fullscreen background image"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "In pixels."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Container padding"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Items spacing"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Items border radius"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Items border size"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Border color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "The items alignment in the slider."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Items alignment"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Left"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Center"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Right"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-layout.php
+msgid "Right-to-left layout"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Show images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Enable image link"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Image type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Featured"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "If not found, the inline image will be used instead."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Inline"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "The first image found in the post content."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "If enabled, the image will cover the whole item container and will be visible behind the detail box."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Crop images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Image width"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Image height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Lazy load images"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Parallax effect"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Absolute url. The fallback image will be displayed if there is no featured or inline image."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-images.php
+msgid "Fallback image"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show detail box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Background color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Accepts values from 0 up to 1 with 2 decimals (e.g., 0.75)."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Background color opacity"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Text color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Light"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Dark"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show title"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Word limit for title."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Title limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Enable title link"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show introtext"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Word limit for introtext."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Introtext limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "If disabled, the introtext limit will be ignored."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Strip introtext html"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Documentation on date and time formatting."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Date format"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show date"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show category"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show tags"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show author"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Available only for Woocommerce products."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show comments count"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-detail-box.php
+msgid "Show Read more button"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Show hover box"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Effect type"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Simple toggle, no effects"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Fade in"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Flip Y"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Flip X"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Slide in left"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Slide in right"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Slide in top"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Slide in bottom"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Zoom in"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "In seconds (e.g., 0.4 or 1.2)."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Effect speed"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Effect easing"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-hover-box.php
+msgid "Show link icon"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Main Slider"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Total items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Load more items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Start limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Dynamic limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Navigation arrows"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Overlay arrows"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Display arrows on top of the items or add horizontal padding to slider."
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Arrows color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Pagination bullets"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Bullets style"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Circles"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Squares"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Lines"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Bullets color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Progress bar"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Progress bar color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Navigator"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Show navigator"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Position"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Item width"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Item height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Border size"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Selected border color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Active border color"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-navigation.php
+msgid "Navigator arrows"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Fade effect"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Drag and scroll"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Drag threshold"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Selected attraction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Friction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Free scroll"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Free scroll friction"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Rewind to start"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Contain"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Group items"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Autoplay"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Autoplay speed"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-effects.php
+msgid "Adaptive height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Large screen"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Size limit"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Items per page"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Show only title"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Min height"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Medium screen"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Small screen"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Extra small screen"
+msgstr ""
+
+#: admin/partials/metabox/minitek-slider-admin-metabox-slider-options-responsive.php
+msgid "Extra extra small screen"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Minitek Slider Pro"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Free"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "A powerful responsive slider for WordPress."
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "New Slider"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Sliders"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Items Groups"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Pro"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Custom Items"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Plugin not installed"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Delete Cropped Images"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Like this plugin?"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Please leave a review"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "About"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Minitek Dashboard"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Version"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Developer"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Licence"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Quick Links"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Technical Support"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Free vs Pro"
+msgstr ""
+
+#: admin/partials/minitek-slider-admin-page-dashboard.php
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: admin/class-minitek-slider-admin-metaboxes.php
+msgid "Slider Options"
+msgstr ""
+
+#: public/partials/sliders/
+msgid "Read more"
+msgstr ""
